@@ -3,4 +3,4 @@ deployment:
         tasks:
                 - export DEPLOYPATH=/home/iif6t1n7uk4n/public_html/
                 - /bin/cp index.php $DEPLOYPATH
-                - /bin/cp style.css $DEPLOYPATH
+               
