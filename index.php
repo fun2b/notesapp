@@ -8,7 +8,7 @@ include 'includes/navbar.php';
 <?php navbar(); ?>
 
 <div class="container">
-    <div class="mt-5">
+    <div class="mt-5" align="center">
         <a href="http://" class="btn btn-primary">Create NoteBook</a>
         <button class="btn btn-success" type="button">View NoteBooks</button>
     </div>
